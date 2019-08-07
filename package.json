@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "Loris",
+  "version": "0.1.0",
+  "description": "Projet Discord getCodingKnowledge",
+  "main": "main.js",
+  "repository": "https://github.com/ladysloana/lady-botdiscordtsjs.git",
+  "author": "loris rocton <loris.rocton@orange.fr>",
+  "license": "MIT"
 }
